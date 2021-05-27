@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @zameel
-- 👀 I’m interested in ... arduino
-- 🌱 I’m currently learning ... arduino c
-- 💞️ I’m looking to collaborate on ... GitHub
 - 📫 How to reach me ... zameelalimohammed282003@gmail.com
 
 <!---
