@@ -6,6 +6,12 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Zameel-Byte&theme=blue-green)
 
+<a href = "https://github.com/https-github-com-zameel28/F.R.I.D.A.Y/graphs/contributors">
+
+<img src = "https://contrib.rocks/image?repo = Zameel-Byte/F.R.I.D.A.Y"/>
+
+</a>Made with [contributors-img](https://contrib.rocks).
+
 
 - 👋 Hi, I’m @zameel
 - 📫 How to reach me ... zameelalimohammed282003@gmail.com
