@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 😂 Here is a random joke that'll make you laugh!![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src=https://komarev.com/ghpvc/?username = Zameel-Byte/>
+<img src=https://komarev.com/ghpvc/?username = Zameel-Byte/>  
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/https-github-com-zameel28/F.R.I.D.A.Y)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/https-github-com-zameel28/F.R.I.D.A.Y)  
 https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
