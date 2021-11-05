@@ -10,8 +10,6 @@
 
 <img src = "https://contrib.rocks/image?repo = Zameel-Byte/F.R.I.D.A.Y"/>
 
-</a>Made with [contributors-img](https://contrib.rocks).
-
 ## 😂 Here is a random joke that'll make you laugh!![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
