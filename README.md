@@ -54,6 +54,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=envoy-vc&layout=compact)](https://github.com/Zameel-Byte)
 
 ## Contributors Badge
+
 ![Your Repository's Stats](https://contrib.rocks/image?repo=just-innovative-bro/F.R.I.D.A.Y)
 
 ## 😂 Here is a random joke that'll make you laugh!
