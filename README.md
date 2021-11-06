@@ -105,10 +105,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-
-## Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Zameel-Byte)
-
 ### Repository View Counter - HITS
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/just-innovative-bro/F.R.I.D.A.Y)
 
