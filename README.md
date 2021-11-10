@@ -93,7 +93,8 @@ You can click the Preview link to take a look at your changes.
 
 ### DevOps  
 <div align="center">    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />   
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />   
 </div>
 
 </td></tr></table>  
