@@ -112,4 +112,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://i.ibb.co/0MZzJ2d/download.png" border="0">
+<p align="center"><img src="https://i.ibb.co/0MZzJ2d/download.png" border="0"></p>
