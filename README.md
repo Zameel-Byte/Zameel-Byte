@@ -107,9 +107,6 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-### Repository View Counter - HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/just-innovative-bro/F.R.I.D.A.Y)
-
 
 
 <p align="center"><img src="https://i.ibb.co/0MZzJ2d/download.png" border="0"></p>
