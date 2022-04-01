@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://img.shields.io/github/followers/Zameel-Byte.svg?style=social&label=Follow&maxAge=2592000"></p>
 
+
 ----
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <br>
@@ -26,6 +27,10 @@ You can click the Preview link to take a look at your changes.
 <a href="https://discord.gg/MQdZjy68tb"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 <br><br>
+----
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zameel-Byte" alt="Zameel-Byte" /></a> </p>
+
 ----
 
 ## I'm a Student!!
