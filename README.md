@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to contribute to open source
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn as much as I can
+- 🥅 2023 Goals: Contribute more to Open Source projects and learn as much as I can
 - ⚡ Fun fact: I love to play games
 <br>
 ----
